@@ -16,7 +16,5 @@
 <strong >❤️ My Github Contribution :</strong><br><br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spag01&theme=radical&hide_border=true"/><br><br>
 
-<strong  >📊 My Contribution Graph :</strong><br><br>
-![spag01's github activity graph](https://activity-graph.herokuapp.com/graph?username=spag01&theme=react-dark)<br><br>
 
 
